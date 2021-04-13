@@ -1,0 +1,978 @@
+"Entities"
+{
+	entity
+	{
+		"id" "4382"
+		"classname" "logic_script"
+		"angles" "-0 -90 0"
+		"targetname" "@script_mp_coop_lobby"
+		"vscripts" "debug_scripts/mp_coop_lobby.nut"
+		"origin" "1387 2654 -1485"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 3000]"
+		}
+	}
+	entity
+	{
+		"id" "4380"
+		"classname" "logic_relay"
+		"angles" "-0 -90 0"
+		"spawnflags" "0"
+		"targetname" "@relay_has_new_taunt"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-brush_new_tauntsEnable01"
+		}
+		"origin" "1304 2654 -1508"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 3500]"
+		}
+	}
+	entity
+	{
+		"id" "4378"
+		"classname" "logic_coop_manager"
+		"angles" "-0 -90 0"
+		"DefaultPlayerStateA" "0"
+		"DefaultPlayerStateB" "0"
+		"targetname" "InstanceAuto24-coopmanage_return_hub"
+		connections
+		{
+			"OnChangeToAllTrue" "InstanceAuto24-relay_return_hubTrigger0-1"
+			"OnChangeToAllTrue" "InstanceAuto24-panel_level_return_orangeCheck0-1"
+			"OnChangeToAllTrue" "InstanceAuto24-panel_level_return_blueCheck0-1"
+		}
+		"origin" "1281.9 2654 -1507.7"
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 4500]"
+		}
+	}
+	entity
+	{
+		"id" "4376"
+		"classname" "logic_relay"
+		"angles" "-0 -90 0"
+		"spawnflags" "0"
+		"targetname" "InstanceAuto24-relay_return_hub"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-script_return_hubRunScriptCodeReturnToHubFromLevel()11"
+			"OnTrigger" "InstanceAuto24-fade_return_hubFade01"
+		}
+		"origin" "1282.57 2654 -1485.83"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 5000]"
+		}
+	}
+	entity
+	{
+		"id" "4374"
+		"classname" "env_fade"
+		"angles" "-0 -90 0"
+		"duration" "1"
+		"renderamt" "255"
+		"rendercolor" "0 0 0"
+		"ReverseFadeDuration" "2"
+		"spawnflags" "8"
+		"targetname" "InstanceAuto24-fade_return_hub"
+		"origin" "1265.23 2654 -1487.24"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 5500]"
+		}
+	}
+	entity
+	{
+		"id" "4372"
+		"classname" "logic_script"
+		"angles" "-0 -90 0"
+		"targetname" "InstanceAuto24-script_return_hub"
+		"vscripts" "debug_scripts/mp_coop_transition_list.nut"
+		"origin" "1304.68 2654 -1485.27"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 6000]"
+		}
+	}
+	entity
+	{
+		"id" "4370"
+		"classname" "logic_auto"
+		"angles" "-0 -90 0"
+		"spawnflags" "1"
+		connections
+		{
+			"OnMapSpawn" "@script_mp_coop_lobbyRunScriptCodeCheckForNewTaunts()2-1"
+			"OnMapSpawn" "InstanceAuto24-script_return_hubRunScriptCodeMapPostLoaded()21"
+		}
+		"origin" "1282 2654 -1462"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 6500]"
+		}
+	}
+	entity
+	{
+		"id" "4367"
+		"classname" "trigger_once"
+		"angles" "-0 -90 0"
+		"origin" "1306 2710 -1574"
+		"spawnflags" "4097"
+		connections
+		{
+			"OnTrigger" "@gladosRunScriptCodeGladosCoopMapStart()01"
+			"OnTrigger" "InstanceAuto24-script_return_hubRunScriptCodeSetMapBranchAndLevel()0.251"
+			"OnTrigger" "InstanceAuto24-trigger_lightboardEnable0.5-1"
+		}
+		solid
+		{
+			"id" "4368"
+			side
+			{
+				"id" "10012"
+				"plane" "(1514 2822 -1566) (1514 2822 -1582) (1514 2598 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10011"
+				"plane" "(1098 2598 -1566) (1098 2598 -1582) (1098 2822 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10010"
+				"plane" "(1098 2822 -1566) (1098 2822 -1582) (1514 2822 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 8] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10009"
+				"plane" "(1514 2598 -1566) (1514 2598 -1582) (1098 2598 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 8] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10008"
+				"plane" "(1098 2822 -1582) (1098 2598 -1582) (1514 2598 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[1 0 0 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10007"
+				"plane" "(1098 2598 -1566) (1098 2822 -1566) (1514 2822 -1566)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[1 0 0 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			editor
+			{
+				"color" "220 30 220"
+				"visgroupshown" "1"
+				"visgroupautoshown" "1"
+			}
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 7500]"
+		}
+	}
+	entity
+	{
+		"id" "4365"
+		"classname" "trigger_playerteam"
+		"angles" "-0 -90 0"
+		"origin" "496 -1728 440"
+		"spawnflags" "4097"
+		"StartDisabled" "1"
+		"target_team" "0"
+		"targetname" "InstanceAuto24-trigger_lightboard"
+		"trigger_once" "0"
+		connections
+		{
+			"OnEndTouchBluePlayer" "InstanceAuto24-coop_man_spawn_areaSetStateBFalse0-1"
+			"OnEndTouchOrangePlayer" "InstanceAuto24-coop_man_spawn_areaSetStateAFalse0-1"
+			"OnStartTouchBluePlayer" "InstanceAuto24-coop_man_spawn_areaSetStateBTrue0-1"
+			"OnStartTouchOrangePlayer" "InstanceAuto24-coop_man_spawn_areaSetStateATrue0-1"
+			"OnStartTouchBluePlayer" "@global_no_taunting_blueTurnOff01"
+			"OnStartTouchOrangePlayer" "@global_no_taunting_orangeTurnOff01"
+			"OnStartTouchOrangePlayer" "@global_no_pinging_orangeTurnOff01"
+			"OnStartTouchBluePlayer" "@global_no_pinging_blueTurnOff01"
+		}
+		solid
+		{
+			"id" "4366"
+			side
+			{
+				"id" "10018"
+				"plane" "(1514 2822 -1534) (1514 2822 -1582) (1514 2598 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10017"
+				"plane" "(1098 2598 -1534) (1098 2598 -1582) (1098 2822 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10016"
+				"plane" "(1098 2822 -1534) (1098 2822 -1582) (1514 2822 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 8] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10015"
+				"plane" "(1514 2598 -1534) (1514 2598 -1582) (1098 2598 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 8] 0.25"
+				"vaxis" "[0 0 -1 -56] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10014"
+				"plane" "(1098 2822 -1582) (1098 2598 -1582) (1514 2598 -1582)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[1 0 0 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10013"
+				"plane" "(1098 2598 -1534) (1098 2822 -1534) (1514 2822 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[1 0 0 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			editor
+			{
+				"color" "220 220 220"
+				"visgroupshown" "1"
+				"visgroupautoshown" "1"
+			}
+		}
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 8000]"
+		}
+	}
+	entity
+	{
+		"id" "4363"
+		"classname" "logic_coop_manager"
+		"angles" "-0 -90 0"
+		"DefaultPlayerStateA" "0"
+		"DefaultPlayerStateB" "0"
+		"targetname" "InstanceAuto24-coop_man_spawn_area"
+		connections
+		{
+			"OnChangeToAnyTrue" "InstanceAuto24-vgui_screen_nameSetActive0-1"
+			"OnChangeToAllFalse" "InstanceAuto24-vgui_screen_nameSetInactive0-1"
+			"OnChangeToAnyTrue" "InstanceAuto24-snd_board_screen_onPlaySound0-1"
+			"OnChangeToAllFalse" "InstanceAuto24-snd_board_screen_offPlaySound0-1"
+		}
+		"origin" "1106 2814 -1558"
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[1500 8500]"
+		}
+	}
+	entity
+	{
+		"id" "4361"
+		"classname" "func_instance_io_proxy"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"targetname" "InstanceAuto24-blue_dropper-proxy"
+		connections
+		{
+			"OnProxyRelay1" "InstanceAuto24-blue_dropper-initial_spawnDisable0-1"
+			"OnProxyRelay2" "InstanceAuto24-blue_dropper-relay_set_enabled_activeTrigger0-1"
+		}
+		"origin" "1394 2710 -1558"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 11500]"
+		}
+	}
+	entity
+	{
+		"id" "4359"
+		"classname" "trigger_playerteam"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"origin" "352 -1664 760"
+		"spawnflags" "4097"
+		"target_team" "0"
+		"targetname" "InstanceAuto24-blue_dropper-cube_dropper_droptrigger"
+		"trigger_once" "0"
+		connections
+		{
+			"OnStartTouchBluePlayer" "InstanceAuto24-blue_dropper-relay_tube_openTrigger0-1"
+			"OnStartTouchBluePlayer" "InstanceAuto24-blue_dropper-cube_dropper_droptrigger_bottomEnable0-1"
+		}
+		solid
+		{
+			"id" "4360"
+			side
+			{
+				"id" "10024"
+				"plane" "(1466 2742 -1494) (1466 2742 -1518) (1466 2678 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10023"
+				"plane" "(1402 2678 -1494) (1402 2678 -1518) (1402 2742 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10022"
+				"plane" "(1402 2742 -1494) (1402 2742 -1518) (1466 2742 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10021"
+				"plane" "(1466 2678 -1494) (1466 2678 -1518) (1402 2678 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10020"
+				"plane" "(1402 2742 -1518) (1402 2678 -1518) (1466 2678 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10019"
+				"plane" "(1402 2678 -1494) (1402 2742 -1494) (1466 2742 -1494)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			editor
+			{
+				"color" "220 220 220"
+				"visgroupshown" "1"
+				"visgroupautoshown" "1"
+			}
+		}
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 12500]"
+		}
+	}
+	entity
+	{
+		"id" "4357"
+		"classname" "info_coop_spawn"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"Enabled" "1"
+		"ForceGunOnSpawn" "0"
+		"StartingTeam" "3"
+		"targetname" "InstanceAuto24-blue_dropper-initial_spawn"
+		"origin" "1434 2710 -1510"
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 13000]"
+		}
+	}
+	entity
+	{
+		"id" "4355"
+		"classname" "logic_relay"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"spawnflags" "2"
+		"StartDisabled" "0"
+		"targetname" "InstanceAuto24-blue_dropper-relay_tube_close"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-blue_dropper-cube_dropper_propSetAnimationitem_dropper_close0.2-1"
+			"OnTrigger" "InstanceAuto24-blue_dropper-relay_tube_openCancelPending0-1"
+		}
+		"origin" "1458 2726 -1542"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 13500]"
+		}
+	}
+	entity
+	{
+		"id" "4353"
+		"classname" "logic_relay"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"spawnflags" "2"
+		"StartDisabled" "0"
+		"targetname" "InstanceAuto24-blue_dropper-relay_set_enabled_active"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-blue_dropper-initial_spawnEnable0-1"
+			"OnTrigger" "InstanceAuto24-blue_dropper-initial_spawnSetAsActiveSpawn0.1-1"
+		}
+		"origin" "1426 2710 -1542"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 14500]"
+		}
+	}
+	entity
+	{
+		"id" "4351"
+		"classname" "logic_relay"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"spawnflags" "2"
+		"StartDisabled" "0"
+		"targetname" "InstanceAuto24-blue_dropper-relay_tube_open"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-blue_dropper-cube_dropper_propSetAnimationitem_dropper_open0.1-1"
+			"OnTrigger" "InstanceAuto24-blue_dropper-relay_tube_closeCancelPending0-1"
+			"OnTrigger" "InstanceAuto24-blue_dropper-steam_blueStart0-1"
+			"OnTrigger" "InstanceAuto24-blue_dropper-steam_blueStop2-1"
+			"OnTrigger" "InstanceAuto24-blue_dropper-snd_spawn_airPlaySound0.5-1"
+		}
+		"origin" "1458 2710 -1542"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 15000]"
+		}
+	}
+	entity
+	{
+		"id" "4349"
+		"classname" "trigger_playerteam"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"origin" "352 -1664 552"
+		"spawnflags" "4097"
+		"StartDisabled" "1"
+		"target_team" "0"
+		"targetname" "InstanceAuto24-blue_dropper-cube_dropper_droptrigger_bottom"
+		"trigger_once" "0"
+		connections
+		{
+			"OnEndTouchBluePlayer" "InstanceAuto24-blue_dropper-cube_dropper_droptrigger_bottomDisable0-1"
+			"OnEndTouchBluePlayer" "InstanceAuto24-blue_dropper-relay_tube_closeTrigger1-1"
+		}
+		solid
+		{
+			"id" "4350"
+			side
+			{
+				"id" "10030"
+				"plane" "(1466 2742 -1518) (1466 2742 -1534) (1466 2678 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10029"
+				"plane" "(1402 2678 -1518) (1402 2678 -1534) (1402 2742 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10028"
+				"plane" "(1402 2742 -1518) (1402 2742 -1534) (1466 2742 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10027"
+				"plane" "(1466 2678 -1518) (1466 2678 -1534) (1402 2678 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10026"
+				"plane" "(1402 2742 -1534) (1402 2678 -1534) (1466 2678 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10025"
+				"plane" "(1402 2678 -1518) (1402 2742 -1518) (1466 2742 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			editor
+			{
+				"color" "220 220 220"
+				"visgroupshown" "1"
+				"visgroupautoshown" "1"
+			}
+		}
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -16268]"
+		}
+	}
+	entity
+	{
+		"id" "4347"
+		"classname" "func_instance_io_proxy"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"targetname" "InstanceAuto24-red_dropper-proxy"
+		connections
+		{
+			"OnProxyRelay1" "InstanceAuto24-red_dropper-initial_spawnDisable0-1"
+			"OnProxyRelay2" "InstanceAuto24-red_dropper-relay_set_enabled_activeTrigger0-1"
+		}
+		"origin" "1202 2710 -1558"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -14768]"
+		}
+	}
+	entity
+	{
+		"id" "4345"
+		"classname" "trigger_playerteam"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"origin" "544 -1664 760"
+		"spawnflags" "4097"
+		"target_team" "0"
+		"targetname" "InstanceAuto24-red_dropper-cube_dropper_droptrigger"
+		"trigger_once" "0"
+		connections
+		{
+			"OnStartTouchOrangePlayer" "InstanceAuto24-red_dropper-relay_tube_openTrigger0-1"
+			"OnStartTouchOrangePlayer" "InstanceAuto24-red_dropper-cube_dropper_droptrigger_bottomEnable0-1"
+		}
+		solid
+		{
+			"id" "4346"
+			side
+			{
+				"id" "10036"
+				"plane" "(1226 2758 -1494) (1226 2758 -1518) (1226 2662 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10035"
+				"plane" "(1130 2662 -1494) (1130 2662 -1518) (1130 2758 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10034"
+				"plane" "(1130 2758 -1494) (1130 2758 -1518) (1226 2758 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10033"
+				"plane" "(1226 2662 -1494) (1226 2662 -1518) (1130 2662 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -8] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10032"
+				"plane" "(1130 2758 -1518) (1130 2662 -1518) (1226 2662 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10031"
+				"plane" "(1130 2662 -1494) (1130 2758 -1494) (1226 2758 -1494)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			editor
+			{
+				"color" "220 220 220"
+				"visgroupshown" "1"
+				"visgroupautoshown" "1"
+			}
+		}
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -13768]"
+		}
+	}
+	entity
+	{
+		"id" "4343"
+		"classname" "info_coop_spawn"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"Enabled" "1"
+		"ForceGunOnSpawn" "0"
+		"StartingTeam" "2"
+		"targetname" "InstanceAuto24-red_dropper-initial_spawn"
+		"origin" "1178 2710 -1494"
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -13268]"
+		}
+	}
+	entity
+	{
+		"id" "4341"
+		"classname" "logic_relay"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"spawnflags" "0"
+		"StartDisabled" "0"
+		"targetname" "InstanceAuto24-red_dropper-relay_tube_close"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-red_dropper-cube_dropper_propSetAnimationitem_dropper_close0.02-1"
+			"OnTrigger" "InstanceAuto24-red_dropper-relay_tube_openCancelPending0-1"
+		}
+		"origin" "1202 2726 -1542"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -12768]"
+		}
+	}
+	entity
+	{
+		"id" "4339"
+		"classname" "logic_relay"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"spawnflags" "0"
+		"StartDisabled" "0"
+		"targetname" "InstanceAuto24-red_dropper-relay_set_enabled_active"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-red_dropper-initial_spawnEnable0-1"
+			"OnTrigger" "InstanceAuto24-red_dropper-initial_spawnSetAsActiveSpawn0.1-1"
+		}
+		"origin" "1186 2710 -1542"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -11768]"
+		}
+	}
+	entity
+	{
+		"id" "4337"
+		"classname" "logic_relay"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"spawnflags" "0"
+		"StartDisabled" "0"
+		"targetname" "InstanceAuto24-red_dropper-relay_tube_open"
+		connections
+		{
+			"OnTrigger" "InstanceAuto24-red_dropper-relay_tube_closeCancelPending0-1"
+			"OnTrigger" "InstanceAuto24-red_dropper-steam_orangeStart0.02-1"
+			"OnTrigger" "InstanceAuto24-red_dropper-cube_dropper_propSetAnimationitem_dropper_open0-1"
+			"OnTrigger" "InstanceAuto24-red_dropper-steam_orangeStop2-1"
+			"OnTrigger" "InstanceAuto24-red_dropper-snd_spawn_airPlaySound0.02-1"
+		}
+		"origin" "1202 2710 -1542"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -11268]"
+		}
+	}
+	entity
+	{
+		"id" "4335"
+		"classname" "trigger_playerteam"
+		"angles" "5.00896e-006 -90 1.00179e-005"
+		"origin" "544 -1664 552"
+		"spawnflags" "4097"
+		"StartDisabled" "1"
+		"target_team" "0"
+		"targetname" "InstanceAuto24-red_dropper-cube_dropper_droptrigger_bottom"
+		"trigger_once" "0"
+		connections
+		{
+			"OnEndTouchOrangePlayer" "InstanceAuto24-red_dropper-cube_dropper_droptrigger_bottomDisable0-1"
+			"OnEndTouchOrangePlayer" "InstanceAuto24-red_dropper-relay_tube_closeTrigger1-1"
+		}
+		solid
+		{
+			"id" "4336"
+			side
+			{
+				"id" "10042"
+				"plane" "(1226 2758 -1518) (1226 2758 -1534) (1226 2662 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10041"
+				"plane" "(1130 2662 -1518) (1130 2662 -1534) (1130 2758 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[0 1 0 -24] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10040"
+				"plane" "(1130 2758 -1518) (1130 2758 -1534) (1226 2758 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10039"
+				"plane" "(1226 2662 -1518) (1226 2662 -1534) (1130 2662 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -23.9971] 0.25"
+				"vaxis" "[0 0 -1 -40] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10038"
+				"plane" "(1130 2758 -1534) (1130 2662 -1534) (1226 2662 -1534)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			side
+			{
+				"id" "10037"
+				"plane" "(1130 2662 -1518) (1130 2758 -1518) (1226 2758 -1518)"
+				"material" "TOOLS/TOOLSTRIGGER"
+				"uaxis" "[-1 0 0 -24] 0.25"
+				"vaxis" "[0 1 0 -24.0039] 0.25"
+				"rotation" "0"
+				"lightmapscale" "16"
+				"smoothing_groups" "0"
+			}
+			editor
+			{
+				"color" "220 220 220"
+				"visgroupshown" "1"
+				"visgroupautoshown" "1"
+			}
+		}
+		editor
+		{
+			"color" "220 220 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[2000 -9768]"
+		}
+	}
+}

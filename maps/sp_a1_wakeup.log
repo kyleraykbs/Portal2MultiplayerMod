@@ -1,0 +1,2340 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (469067 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2288 texinfos to 1124
+Reduced 74 texdatas to 68 (2426 bytes to 2194)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15278 / 65536 )
+nummapbrushes:    (  1173 /  8192 )
+nummapbrushsides: ( 13721 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    88 /  1024 )
+num_entities:     (   399 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (470741 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2294 texinfos to 1126
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15294 / 65536 )
+nummapbrushes:    (  1176 /  8192 )
+nummapbrushsides: ( 13739 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    89 /  1024 )
+num_entities:     (   400 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15304 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15304 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15304 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15304 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15306 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15306 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471295 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15306 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471296 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15306 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (471296 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2297 texinfos to 1129
+Reduced 75 texdatas to 68 (2447 bytes to 2193)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15306 / 65536 )
+nummapbrushes:    (  1177 /  8192 )
+nummapbrushsides: ( 13745 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (    90 /  1024 )
+num_entities:     (   401 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (487324 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2471 texinfos to 1223
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15614 / 65536 )
+nummapbrushes:    (  1206 /  8192 )
+nummapbrushsides: ( 13919 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   121 /  1024 )
+num_entities:     (   433 / 16384 )
+
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490652 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2504 texinfos to 1241
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15680 / 65536 )
+nummapbrushes:    (  1212 /  8192 )
+nummapbrushsides: ( 13955 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   127 /  1024 )
+num_entities:     (   440 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490652 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2504 texinfos to 1241
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15674 / 65536 )
+nummapbrushes:    (  1212 /  8192 )
+nummapbrushsides: ( 13955 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   127 /  1024 )
+num_entities:     (   440 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490097 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2501 texinfos to 1238
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15670 / 65536 )
+nummapbrushes:    (  1211 /  8192 )
+nummapbrushsides: ( 13949 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   126 /  1024 )
+num_entities:     (   439 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490097 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2501 texinfos to 1238
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15670 / 65536 )
+nummapbrushes:    (  1211 /  8192 )
+nummapbrushsides: ( 13949 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   126 /  1024 )
+num_entities:     (   439 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490097 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2503 texinfos to 1239
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15670 / 65536 )
+nummapbrushes:    (  1211 /  8192 )
+nummapbrushsides: ( 13949 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   126 /  1024 )
+num_entities:     (   439 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490097 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2503 texinfos to 1239
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15676 / 65536 )
+nummapbrushes:    (  1211 /  8192 )
+nummapbrushsides: ( 13951 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   126 /  1024 )
+num_entities:     (   439 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490097 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2503 texinfos to 1239
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15676 / 65536 )
+nummapbrushes:    (  1211 /  8192 )
+nummapbrushsides: ( 13951 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   126 /  1024 )
+num_entities:     (   439 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490647 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2509 texinfos to 1242
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15678 / 65536 )
+nummapbrushes:    (  1212 /  8192 )
+nummapbrushsides: ( 13957 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   127 /  1024 )
+num_entities:     (   440 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490646 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2509 texinfos to 1242
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15676 / 65536 )
+nummapbrushes:    (  1212 /  8192 )
+nummapbrushsides: ( 13957 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   127 /  1024 )
+num_entities:     (   440 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (491202 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2512 texinfos to 1245
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15686 / 65536 )
+nummapbrushes:    (  1213 /  8192 )
+nummapbrushsides: ( 13963 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   128 /  1024 )
+num_entities:     (   441 / 16384 )
+
+2 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading e:\p2mpfix\final\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\p2mpfix\final\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (492311 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2517 texinfos to 1250
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15708 / 65536 )
+nummapbrushes:    (  1215 /  8192 )
+nummapbrushsides: ( 13975 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   130 /  1024 )
+num_entities:     (   444 / 16384 )
+
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\p2mpfix\final\sp_a1_wakeup.bsp
+reading e:\p2mpfix\final\sp_a1_wakeup.prt
+ 715 portalclusters
+2437 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 438 visible clusters (0.00%)
+Total clusters visible: 179099
+Average clusters visible: 250
+Building PAS...
+Average clusters audible: 495
+visdatasize:111996  compressed from 137280
+writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+1 minute, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading e:\p2mpfix\final\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3613 faces
+1 degenerate faces
+2051216 square feet [295375104.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3612 patches before subdivision
+36394 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1669598, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2748, 3198, 3334)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 846, 751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 130/1024         6240/49152    (12.7%) 
+brushes               1215/8192        14580/98304    (14.8%) 
+brushsides           13847/65536      110776/524288   (21.1%) 
+planes               15708/65536      314160/1310720  (24.0%) 
+vertexes              6897/65536       82764/786432   (10.5%) 
+nodes                 2233/65536       71456/2097152  ( 3.4%) 
+texinfos              1250/12288       90000/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3613/65536      202328/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2684/65536      150304/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3613/0           14452/0        ( 0.0%) 
+leaves                2364/65536       75648/2097152  ( 3.6%) 
+leaffaces             5651/65536       11302/131072   ( 8.6%) 
+leafbrushes           4725/65536        9450/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27279/512000     109116/2048000  ( 5.3%) 
+edges                17014/256000      68056/1024000  ( 6.6%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      149822/393216   (38.1%) 
+LDR ambient table     2364/65536        9456/262144   ( 3.6%) 
+HDR ambient table     2364/65536        9456/262144   ( 3.6%) 
+LDR leaf ambient      5226/65536      146328/1835008  ( 8.0%) 
+HDR leaf ambient      2364/65536       66192/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]     8248457/0        ( 0.0%) 
+physics               [variable]      492311/4194304  (11.7%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 1
+
+Total triangle count: 9264
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+1 minute, 27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading e:\p2mpfix\final\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3613 faces
+1 degenerate faces
+2051216 square feet [295375104.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3612 patches before subdivision
+36394 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1669598, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2749, 3199, 3335)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 846, 751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 130/1024         6240/49152    (12.7%) 
+brushes               1215/8192        14580/98304    (14.8%) 
+brushsides           13847/65536      110776/524288   (21.1%) 
+planes               15708/65536      314160/1310720  (24.0%) 
+vertexes              6897/65536       82764/786432   (10.5%) 
+nodes                 2233/65536       71456/2097152  ( 3.4%) 
+texinfos              1250/12288       90000/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3613/65536      202328/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2684/65536      150304/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3613/0           14452/0        ( 0.0%) 
+leaves                2364/65536       75648/2097152  ( 3.6%) 
+leaffaces             5651/65536       11302/131072   ( 8.6%) 
+leafbrushes           4725/65536        9450/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27279/512000     109116/2048000  ( 5.3%) 
+edges                17014/256000      68056/1024000  ( 6.6%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      149822/393216   (38.1%) 
+LDR ambient table     2364/65536        9456/262144   ( 3.6%) 
+HDR ambient table     2364/65536        9456/262144   ( 3.6%) 
+LDR leaf ambient      5222/65536      146216/1835008  ( 8.0%) 
+HDR leaf ambient      2364/65536       66192/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]     8248457/0        ( 0.0%) 
+physics               [variable]      492311/4194304  (11.7%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 1
+
+Total triangle count: 9264
+Writing e:\p2mpfix\final\sp_a1_wakeup.bsp
+3 minutes, 22 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (492311 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2517 texinfos to 1250
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15708 / 65536 )
+nummapbrushes:    (  1215 /  8192 )
+nummapbrushsides: ( 13975 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   130 /  1024 )
+num_entities:     (   444 / 16384 )
+
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt
+ 715 portalclusters
+2437 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 29139 visible clusters (0.00%)
+Total clusters visible: 354384
+Average clusters visible: 495
+Building PAS...
+Average clusters audible: 696
+visdatasize:130162  compressed from 137280
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3613 faces
+1 degenerate faces
+2051216 square feet [295375104.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3612 patches before subdivision
+36394 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1421385, max 385
+transfer lists:  10.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2099, 2446, 2592)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(548, 566, 482)
+Build Patch/Sample Hash Table(s).....Done<0.0101 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 130/1024         6240/49152    (12.7%) 
+brushes               1215/8192        14580/98304    (14.8%) 
+brushsides           13847/65536      110776/524288   (21.1%) 
+planes               15708/65536      314160/1310720  (24.0%) 
+vertexes              6897/65536       82764/786432   (10.5%) 
+nodes                 2233/65536       71456/2097152  ( 3.4%) 
+texinfos              1250/12288       90000/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3613/65536      202328/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2684/65536      150304/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3613/0           14452/0        ( 0.0%) 
+leaves                2364/65536       75648/2097152  ( 3.6%) 
+leaffaces             5651/65536       11302/131072   ( 8.6%) 
+leafbrushes           4725/65536        9450/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27279/512000     109116/2048000  ( 5.3%) 
+edges                17014/256000      68056/1024000  ( 6.6%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2408020/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      130162/16777216 ( 0.8%) 
+entdata               [variable]      149758/393216   (38.1%) 
+LDR ambient table     2364/65536        9456/262144   ( 3.6%) 
+HDR ambient table     2364/65536        9456/262144   ( 3.6%) 
+LDR leaf ambient      5429/65536      152012/1835008  ( 8.3%) 
+HDR leaf ambient      2364/65536       66192/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]     2386693/0        ( 0.0%) 
+physics               [variable]      492311/4194304  (11.7%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 9264
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+16 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (492864 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2520 texinfos to 1253
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15712 / 65536 )
+nummapbrushes:    (  1216 /  8192 )
+nummapbrushsides: ( 13981 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   131 /  1024 )
+num_entities:     (   445 / 16384 )
+
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt
+ 715 portalclusters
+2437 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 439 visible clusters (0.00%)
+Total clusters visible: 179100
+Average clusters visible: 250
+Building PAS...
+Average clusters audible: 495
+visdatasize:111996  compressed from 137280
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+1 minute, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3619 faces
+1 degenerate faces
+2051318 square feet [295389824.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3618 patches before subdivision
+36400 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1670480, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2751, 3201, 3337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 847, 752)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 131/1024         6288/49152    (12.8%) 
+brushes               1216/8192        14592/98304    (14.8%) 
+brushsides           13853/65536      110824/524288   (21.1%) 
+planes               15712/65536      314240/1310720  (24.0%) 
+vertexes              6905/65536       82860/786432   (10.5%) 
+nodes                 2239/65536       71648/2097152  ( 3.4%) 
+texinfos              1253/12288       90216/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3619/65536      202664/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2690/65536      150640/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3619/0           14476/0        ( 0.0%) 
+leaves                2371/65536       75872/2097152  ( 3.6%) 
+leaffaces             5657/65536       11314/131072   ( 8.6%) 
+leafbrushes           4726/65536        9452/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27327/512000     109308/2048000  ( 5.3%) 
+edges                17038/256000      68152/1024000  ( 6.7%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      150022/393216   (38.2%) 
+LDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+HDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+LDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+HDR leaf ambient      2371/65536       66388/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]     8248457/0        ( 0.0%) 
+physics               [variable]      492864/4194304  (11.8%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 1
+
+Total triangle count: 9276
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3 minutes, 25 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3619 faces
+1 degenerate faces
+2051318 square feet [295389824.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3618 patches before subdivision
+36400 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1670480, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2751, 3200, 3336)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 847, 751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0101 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 131/1024         6288/49152    (12.8%) 
+brushes               1216/8192        14592/98304    (14.8%) 
+brushsides           13853/65536      110824/524288   (21.1%) 
+planes               15712/65536      314240/1310720  (24.0%) 
+vertexes              6905/65536       82860/786432   (10.5%) 
+nodes                 2239/65536       71648/2097152  ( 3.4%) 
+texinfos              1253/12288       90216/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3619/65536      202664/3670016  ( 5.5%) 
+hdr faces             3619/65536      202664/3670016  ( 5.5%) 
+origfaces             2690/65536      150640/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3619/0           14476/0        ( 0.0%) 
+leaves                2371/65536       75872/2097152  ( 3.6%) 
+leaffaces             5657/65536       11314/131072   ( 8.6%) 
+leafbrushes           4726/65536        9452/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27327/512000     109308/2048000  ( 5.3%) 
+edges                17038/256000      68152/1024000  ( 6.7%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights         23/8192         2300/819200   ( 0.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]     2409376/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      150022/393216   (38.2%) 
+LDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+HDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+LDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+HDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]    14115093/0        ( 0.0%) 
+physics               [variable]      492864/4194304  (11.8%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 3
+
+Total triangle count: 9276
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3 minutes, 31 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (492864 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2520 texinfos to 1253
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15712 / 65536 )
+nummapbrushes:    (  1216 /  8192 )
+nummapbrushsides: ( 13981 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   131 /  1024 )
+num_entities:     (   445 / 16384 )
+
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt
+ 715 portalclusters
+2437 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 439 visible clusters (0.00%)
+Total clusters visible: 179100
+Average clusters visible: 250
+Building PAS...
+Average clusters audible: 495
+visdatasize:111996  compressed from 137280
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+1 minute, 4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3619 faces
+1 degenerate faces
+2051318 square feet [295389824.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3618 patches before subdivision
+36400 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1670480, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2750, 3200, 3336)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 847, 751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 131/1024         6288/49152    (12.8%) 
+brushes               1216/8192        14592/98304    (14.8%) 
+brushsides           13853/65536      110824/524288   (21.1%) 
+planes               15712/65536      314240/1310720  (24.0%) 
+vertexes              6905/65536       82860/786432   (10.5%) 
+nodes                 2239/65536       71648/2097152  ( 3.4%) 
+texinfos              1253/12288       90216/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3619/65536      202664/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2690/65536      150640/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3619/0           14476/0        ( 0.0%) 
+leaves                2371/65536       75872/2097152  ( 3.6%) 
+leaffaces             5657/65536       11314/131072   ( 8.6%) 
+leafbrushes           4726/65536        9452/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27327/512000     109308/2048000  ( 5.3%) 
+edges                17038/256000      68152/1024000  ( 6.7%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      150022/393216   (38.2%) 
+LDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+HDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+LDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+HDR leaf ambient      2371/65536       66388/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]     8248457/0        ( 0.0%) 
+physics               [variable]      492864/4194304  (11.8%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 1
+
+Total triangle count: 9276
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3 minutes, 31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3619 faces
+1 degenerate faces
+2051318 square feet [295389824.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3618 patches before subdivision
+36400 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1670480, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2751, 3201, 3337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 847, 752)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0105 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 131/1024         6288/49152    (12.8%) 
+brushes               1216/8192        14592/98304    (14.8%) 
+brushsides           13853/65536      110824/524288   (21.1%) 
+planes               15712/65536      314240/1310720  (24.0%) 
+vertexes              6905/65536       82860/786432   (10.5%) 
+nodes                 2239/65536       71648/2097152  ( 3.4%) 
+texinfos              1253/12288       90216/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3619/65536      202664/3670016  ( 5.5%) 
+hdr faces             3619/65536      202664/3670016  ( 5.5%) 
+origfaces             2690/65536      150640/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3619/0           14476/0        ( 0.0%) 
+leaves                2371/65536       75872/2097152  ( 3.6%) 
+leaffaces             5657/65536       11314/131072   ( 8.6%) 
+leafbrushes           4726/65536        9452/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27327/512000     109308/2048000  ( 5.3%) 
+edges                17038/256000      68152/1024000  ( 6.7%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights         23/8192         2300/819200   ( 0.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]     2409376/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      150022/393216   (38.2%) 
+LDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+HDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+LDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+HDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]    14115093/0        ( 0.0%) 
+physics               [variable]      492864/4194304  (11.8%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 3
+
+Total triangle count: 9276
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3 minutes, 42 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (492864 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2520 texinfos to 1253
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15712 / 65536 )
+nummapbrushes:    (  1216 /  8192 )
+nummapbrushsides: ( 13981 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   131 /  1024 )
+num_entities:     (   445 / 16384 )
+
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a1_wakeup/metal/blendblackfloormetal_dirt02_wvt_patch
+Patching WVT material: maps/sp_a1_wakeup/nature/blenddirt_rust01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (492864 bytes)
+Can't create hull for mesh 0/0 of model props_hub/glados_chamber_dest01.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2520 texinfos to 1253
+Reduced 75 texdatas to 69 (2449 bytes to 2217)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+
+nummapplanes:     ( 15712 / 65536 )
+nummapbrushes:    (  1216 /  8192 )
+nummapbrushsides: ( 13981 / 65536 )
+num_map_overlays: (    31 /   512 )
+nummodels:        (   131 /  1024 )
+num_entities:     (   445 / 16384 )
+
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.prt
+ 715 portalclusters
+2437 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 439 visible clusters (0.00%)
+Total clusters visible: 179100
+Average clusters visible: 250
+Building PAS...
+Average clusters audible: 495
+visdatasize:111996  compressed from 137280
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+1 minute, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3619 faces
+1 degenerate faces
+2051318 square feet [295389824.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3618 patches before subdivision
+36400 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1670480, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2751, 3201, 3337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 847, 752)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0095 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 131/1024         6288/49152    (12.8%) 
+brushes               1216/8192        14592/98304    (14.8%) 
+brushsides           13853/65536      110824/524288   (21.1%) 
+planes               15712/65536      314240/1310720  (24.0%) 
+vertexes              6905/65536       82860/786432   (10.5%) 
+nodes                 2239/65536       71648/2097152  ( 3.4%) 
+texinfos              1253/12288       90216/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3619/65536      202664/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2690/65536      150640/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3619/0           14476/0        ( 0.0%) 
+leaves                2371/65536       75872/2097152  ( 3.6%) 
+leaffaces             5657/65536       11314/131072   ( 8.6%) 
+leafbrushes           4726/65536        9452/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27327/512000     109308/2048000  ( 5.3%) 
+edges                17038/256000      68152/1024000  ( 6.7%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      150013/393216   (38.2%) 
+LDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+HDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+LDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+HDR leaf ambient      2371/65536       66388/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]     8248457/0        ( 0.0%) 
+physics               [variable]      492864/4194304  (11.8%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 1
+
+Total triangle count: 9276
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3 minutes, 30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+Loaded alpha texture materials\models\props_foliage\Vines_thick_384.vtf
+Loaded alpha texture materials\models\props_foliage\leaves_dead.vtf
+Loaded alpha texture materials\Metal\metalgrate018.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+3619 faces
+1 degenerate faces
+2051318 square feet [295389824.00 square inches]
+22 Displacements
+126808 Square Feet [18260406.00 Square Inches]
+3618 patches before subdivision
+36400 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1670480, max 388
+transfer lists:  12.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2750, 3200, 3336)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(787, 847, 751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(215, 219, 169)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(74, 73, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25, 24, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(9, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0099 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 131/1024         6288/49152    (12.8%) 
+brushes               1216/8192        14592/98304    (14.8%) 
+brushsides           13853/65536      110824/524288   (21.1%) 
+planes               15712/65536      314240/1310720  (24.0%) 
+vertexes              6905/65536       82860/786432   (10.5%) 
+nodes                 2239/65536       71648/2097152  ( 3.4%) 
+texinfos              1253/12288       90216/884736   (10.2%) 
+texdata                 69/2048         2208/65536    ( 3.4%) 
+dispinfos               22/0            3872/0        ( 0.0%) 
+disp_verts            3654/0           73080/0        ( 0.0%) 
+disp_tris             6272/0           12544/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       97579/0           97579/0        ( 0.0%) 
+faces                 3619/65536      202664/3670016  ( 5.5%) 
+hdr faces             3619/65536      202664/3670016  ( 5.5%) 
+origfaces             2690/65536      150640/3670016  ( 4.1%) 
+facebrushes            457/0             914/0        ( 0.0%) 
+facebrushlists        3619/0           14476/0        ( 0.0%) 
+leaves                2371/65536       75872/2097152  ( 3.6%) 
+leaffaces             5657/65536       11314/131072   ( 8.6%) 
+leafbrushes           4726/65536        9452/131072   ( 7.2%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            27327/512000     109308/2048000  ( 5.3%) 
+edges                17038/256000      68152/1024000  ( 6.7%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights         23/8192         2300/819200   ( 0.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            318/32768        3180/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5208/65536       10416/131072   ( 7.9%) 
+cubemapsamples          31/1024          496/16384    ( 3.0%) 
+overlays                31/512         10912/180224   ( 6.1%) 
+LDR lightdata         [variable]     2409376/0        ( 0.0%) 
+HDR lightdata         [variable]     2409376/0        ( 0.0%) 
+visdata               [variable]      111996/16777216 ( 0.7%) 
+entdata               [variable]      150013/393216   (38.2%) 
+LDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+HDR ambient table     2371/65536        9484/262144   ( 3.6%) 
+LDR leaf ambient      5228/65536      146384/1835008  ( 8.0%) 
+HDR leaf ambient      5229/65536      146412/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60118    ( 0.0%) 
+pakfile               [variable]    14115093/0        ( 0.0%) 
+physics               [variable]      492864/4194304  (11.8%) 
+physics terrain       [variable]       11993/1048576  ( 1.1%) 
+
+Level flags = 3
+
+Total triangle count: 9276
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a1_wakeup.bsp
+3 minutes, 34 seconds elapsed

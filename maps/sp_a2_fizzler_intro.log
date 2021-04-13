@@ -1,0 +1,252 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Portal 2\portal2\materials
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/sp_a2_fizzler_intro/metal/blendblackfloormetal_dirt02_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 374 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (402260 bytes)
+Encountered obsolete static prop option to do its fade in screen space @ -128.00 -272.00 0.00
+Encountered obsolete static prop option to do its fade in screen space @ 592.00 32.00 0.00
+Encountered obsolete static prop option to do its fade in screen space @ -128.00 16.00 0.00
+Encountered obsolete static prop option to do its fade in screen space @ 656.00 -160.00 0.00
+Encountered obsolete static prop option to do its fade in screen space @ 624.00 -160.00 0.00
+Encountered obsolete static prop option to do its fade in screen space @ 816.00 -64.00 128.00
+Encountered obsolete static prop option to do its fade in screen space @ 784.00 -64.00 128.00
+Encountered obsolete static prop option to do its fade in screen space @ -432.00 -128.00 128.00
+Encountered obsolete static prop option to do its fade in screen space @ -464.00 -128.00 128.00
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1536 texinfos to 797
+Reduced 57 texdatas to 55 (1644 bytes to 1551)
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+
+nummapplanes:     (  5746 / 65536 )
+nummapbrushes:    (  1092 /  8192 )
+nummapbrushsides: (  8999 / 65536 )
+num_map_overlays: (    18 /   512 )
+nummodels:        (    80 /  1024 )
+num_entities:     (   493 / 16384 )
+
+1 second elapsed
+
+
+
+12 threads
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+reading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.prt
+ 215 portalclusters
+ 465 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 182 visible clusters (0.00%)
+Total clusters visible: 26509
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 197
+visdatasize:12903  compressed from 13760
+writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+2003 faces
+1 degenerate faces
+219377 square feet [31590412.00 square inches]
+1 Displacements
+832 Square Feet [119808.00 Square Inches]
+2002 patches before subdivision
+zero area child patch
+zero area child patch
+18770 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1142308, max 395
+transfer lists:   8.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(11407, 11713, 10199)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3000, 3153, 2750)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(931, 1000, 865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(324, 355, 302)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(122, 135, 113)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(48, 54, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 22, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 9, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0037 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+18 of 18 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  80/1024         3840/49152    ( 7.8%) 
+brushes               1092/8192        13104/98304    (13.3%) 
+brushsides            9085/65536       72680/524288   (13.9%) 
+planes                5746/65536      114920/1310720  ( 8.8%) 
+vertexes              4149/65536       49788/786432   ( 6.3%) 
+nodes                 1175/65536       37600/2097152  ( 1.8%) 
+texinfos               797/12288       57384/884736   ( 6.5%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              81/0            1620/0        ( 0.0%) 
+disp_tris              128/0             256/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        2240/0            2240/0        ( 0.0%) 
+faces                 2003/65536      112168/3670016  ( 3.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1693/65536       94808/3670016  ( 2.6%) 
+facebrushes            223/0             446/0        ( 0.0%) 
+facebrushlists        2003/0            8012/0        ( 0.0%) 
+leaves                1256/65536       40192/2097152  ( 1.9%) 
+leaffaces             2473/65536        4946/131072   ( 3.8%) 
+leafbrushes           1937/65536        3874/131072   ( 3.0%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            16070/512000      64280/2048000  ( 3.1%) 
+edges                 9997/256000      39988/1024000  ( 3.9%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            253/32768        2530/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4299/65536        8598/131072   ( 6.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                18/512          6336/180224   ( 3.5%) 
+LDR lightdata         [variable]     1531604/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12903/16777216 ( 0.1%) 
+entdata               [variable]      202543/393216   (51.5%) 
+LDR ambient table     1256/65536        5024/262144   ( 1.9%) 
+HDR ambient table     1256/65536        5024/262144   ( 1.9%) 
+LDR leaf ambient      2823/65536       79044/1835008  ( 4.3%) 
+HDR leaf ambient      1256/65536       35168/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22902    ( 0.0%) 
+pakfile               [variable]     2221285/0        ( 0.0%) 
+physics               [variable]      402260/4194304  ( 9.6%) 
+physics terrain       [variable]          97/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 5311
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+1 minute, 3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+2003 faces
+1 degenerate faces
+219377 square feet [31590412.00 square inches]
+1 Displacements
+832 Square Feet [119808.00 Square Inches]
+2002 patches before subdivision
+zero area child patch
+zero area child patch
+18770 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1142308, max 395
+transfer lists:   8.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(11407, 11713, 10199)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3000, 3154, 2750)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(931, 1000, 865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(324, 355, 302)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(122, 135, 113)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(48, 54, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 22, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 9, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+18 of 18 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  80/1024         3840/49152    ( 7.8%) 
+brushes               1092/8192        13104/98304    (13.3%) 
+brushsides            9085/65536       72680/524288   (13.9%) 
+planes                5746/65536      114920/1310720  ( 8.8%) 
+vertexes              4149/65536       49788/786432   ( 6.3%) 
+nodes                 1175/65536       37600/2097152  ( 1.8%) 
+texinfos               797/12288       57384/884736   ( 6.5%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              81/0            1620/0        ( 0.0%) 
+disp_tris              128/0             256/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples        2240/0            2240/0        ( 0.0%) 
+faces                 2003/65536      112168/3670016  ( 3.1%) 
+hdr faces             2003/65536      112168/3670016  ( 3.1%) 
+origfaces             1693/65536       94808/3670016  ( 2.6%) 
+facebrushes            223/0             446/0        ( 0.0%) 
+facebrushlists        2003/0            8012/0        ( 0.0%) 
+leaves                1256/65536       40192/2097152  ( 1.9%) 
+leaffaces             2473/65536        4946/131072   ( 3.8%) 
+leafbrushes           1937/65536        3874/131072   ( 3.0%) 
+areas                    9/256            72/2048     ( 3.5%) 
+surfedges            16070/512000      64280/2048000  ( 3.1%) 
+edges                 9997/256000      39988/1024000  ( 3.9%) 
+LDR worldlights         52/8192         5200/819200   ( 0.6%) 
+HDR worldlights         52/8192         5200/819200   ( 0.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            253/32768        2530/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4299/65536        8598/131072   ( 6.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                18/512          6336/180224   ( 3.5%) 
+LDR lightdata         [variable]     1531604/0        ( 0.0%) 
+HDR lightdata         [variable]     1531604/0        ( 0.0%) 
+visdata               [variable]       12903/16777216 ( 0.1%) 
+entdata               [variable]      202543/393216   (51.5%) 
+LDR ambient table     1256/65536        5024/262144   ( 1.9%) 
+HDR ambient table     1256/65536        5024/262144   ( 1.9%) 
+LDR leaf ambient      2823/65536       79044/1835008  ( 4.3%) 
+HDR leaf ambient      2823/65536       79044/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22902    ( 0.0%) 
+pakfile               [variable]     3699169/0        ( 0.0%) 
+physics               [variable]      402260/4194304  ( 9.6%) 
+physics terrain       [variable]          97/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 5311
+Writing d:\steamlibrary\steamapps\common\portal 2\portal2_dlc3\maps\sp_a2_fizzler_intro.bsp
+1 minute, 3 seconds elapsed
